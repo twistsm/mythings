@@ -1,0 +1,128 @@
+cd router/
+ll
+ll
+ll
+cd ../
+ll
+ll
+cd rdbms
+ll
+ll
+ll
+cd ../
+ll
+ll
+ll
+ll
+ll
+cat Makefile 
+ll
+ll
+cat docker-compose.yml 
+ll
+ll
+cat docker-compose.yml 
+cd rdbms/
+ll
+cat ../kvdb/Dockerfile 
+cat ../gmanager/Dockerfile 
+ll
+rm init-database.sh 
+ll
+ls -l
+cd ../
+ll
+ll
+cat Makefile 
+ll
+cat docker-compose.yml 
+ll
+ls -l
+ls -la
+git mv .env environment
+ls -l
+ll
+ls rdbms/
+ls -l
+ls -l
+cd gmanager/
+ll
+touch model.py
+ls -l
+ды -д
+ls -l
+cd dev/playsonpl/
+cd docs/
+ll
+sudo -s
+ls -l
+cd ../
+ll
+git clone git@gitlab-int-v.globo-tech.vpn:v.pronskiy/gm_fruits_n_stars.git
+ll
+cd fr
+cd gm_fruits_n_stars/
+ll
+cat readme.md 
+g++ -o bin/gm_fruits_n_stars -fpermissive -std=c++1y src/main.cpp
+lll
+ll
+cd bin
+ll
+cd ../
+ll
+cd dev/playsonpl/
+ll
+xs gmanager/
+ll
+cd gmanager/
+ll
+ls -l
+ll
+cat supervisord.log
+ls l-
+ls -l
+cd ../../gm_fruits_n_stars/bin/
+ls
+at command_commands.txt 
+cat command_commands.txt 
+ll
+ll
+ll
+cd ../
+ll
+ll
+ll
+cd ../
+cd
+cd /srv/
+ls -l
+cd http/
+ll
+cd extgames/
+ll
+cd externalgames/
+ll
+cd gm/
+ll
+mkdir ~/Desktop/gm
+mkdir ~/Desktop/gm/config
+mkdir ~/Desktop/gm/partner
+cp config/llabsapi.cfg ~/Desktop/gm/config/.
+cp partners/llabsapi.xml ~/Desktop/gm/partner/.
+mkdir ~/Desktop/gm/lib
+cp lib/game_runner.js ~/Desktop/gm/lib/.
+cd 
+cd dev/
+ll
+cd playsonpl/
+ll
+cat gmanager/worker.py 
+cd gmanager/
+ls -l
+sudo chown -R twistsm:twistsm games
+ll
+apt-cache search glib | grep dev
+apt-cache search libglib | grep dev
+sudo apt-get install -qy libglib2.0-dev
+ll

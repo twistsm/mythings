@@ -1,0 +1,69 @@
+
+;; ----- smex-history -----
+(
+ eshell
+ rename-buffer
+ load-theme
+ package-list-packages
+ venv-workon
+ org-mode
+ linum-mode
+)
+
+;; ----- smex-data -----
+(
+ (dired . 4)
+ (package-list-packages . 9)
+ (sr-speedbar-toggle . 4)
+ (shell . 4)
+ (virtualenv-workon . 4)
+ (anaconda-mode . 2)
+ (pyenv-mode . 8)
+ (pyenv-mode-set . 3)
+ (python-menu . 2)
+ (venv-workon . 6)
+ (eshell . 62)
+ (tern-mode . 5)
+ (tern-ac-setup . 1)
+ (auto-complete-mode . 1)
+ (markdown-preview . 34)
+ (linum-mode . 10)
+ (ido-mode . 2)
+ (ido-display-buffer . 1)
+ (tabbar-backward . 1)
+ (ibuffer . 2)
+ (version . 2)
+ (whitespace-cleanup . 2)
+ (indent-region . 2)
+ (org-export-as-html . 1)
+ (org-export . 2)
+ (org-export-as-html-and-open . 15)
+ (org-export-as-pdf . 2)
+ (org-export-as-pdf-and-open . 1)
+ (org-export-as-odt . 1)
+ (org-export-as-odf-and-open . 1)
+ (org-export-as-odt-and-open . 2)
+ (flycheck-mode . 1)
+ (flymake-mode . 2)
+ (word-search-forward . 1)
+ (eww . 5)
+ (eww-back-url . 6)
+ (untabify . 1)
+ (org-html-export-as-html . 12)
+ (browse-url-of-region . 2)
+ (browse-url-of-file . 9)
+ (org-html-export-to-html . 89)
+ (browse-url . 8)
+ (toggle-word-wrap . 1)
+ (line-number-mode . 4)
+ (toggle-truncate-lines . 6)
+ (org-latex-export-to-pdf . 1)
+ (browse-url-of-buffer . 9)
+ (org-latex-export-to-latex . 1)
+ (org-md-export-to-markdown . 5)
+ (dired-create-directory . 1)
+ (org-display-inline-images . 4)
+ (org-mode . 1)
+ (load-theme . 2)
+ (rename-buffer . 2)
+)

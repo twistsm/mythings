@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/dev/playsonpl/" "~/dev/gm_fruits_n_stars/" "~/dev/backup/" "~/dev/playsonpl/docs/org-html-themes/" "~/dev/keezee/" "~/dev/")

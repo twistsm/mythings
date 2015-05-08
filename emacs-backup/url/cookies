@@ -1,0 +1,22 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.com.ua"
+  [url-cookie "HttpOnly" nil "24-Oct-2015 09:04:49.00 GMT" "/" ".google.com.ua" nil]
+  [url-cookie "NID" "67=QQz6y70wxv6kOSC4r8CV6yJ9LQfRVq6Cm4qPU_zRW1q3yRzBvrq_-x-ijQ0WCjD7JHA65Lpy4LaTwomrrUAcVqTRgt2Nt3FAJL-muKftCwVX3hOZu-dUq9bAgxStTuFB" "24-Oct-2015 09:04:49.00 GMT" "/" ".google.com.ua" nil]
+  [url-cookie "PREF" "ID=30b5386f717cbdb2:U=abaabf5ab5f31573:FF=0:TM=1429866289:LM=1429866295:S=w1O3FfACu1AUYJPt" "23-Apr-2017 09:04:55.00 GMT" "/" ".google.com.ua" nil])
+ ("www.linuxquestions.org"
+  [url-cookie "bblastactivity" "0" "23-Apr-2016 09:14:18.00 GMT" "/" "www.linuxquestions.org" nil]
+  [url-cookie "bblastvisit" "1429866858" "23-Apr-2016 09:14:18.00 GMT" "/" "www.linuxquestions.org" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".github.com"
+  [url-cookie "logged_in" "no" "24-Apr-2035 11:26:22.00 GMT" "/" ".github.com" t]
+  [url-cookie "HttpOnly" nil "24-Apr-2035 11:26:22.00 GMT" "/" ".github.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
