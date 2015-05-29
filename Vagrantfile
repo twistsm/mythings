@@ -5,6 +5,7 @@ Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu/trusty64"
 
   config.vm.network "forwarded_port", guest: 80, host: 8080, protocol: 'tcp'
+  config.vm.network "private_network", ip: "192.168.33.10"
 
   config.ssh.forward_agent = true
   config.ssh.forward_x11 = true
@@ -19,5 +20,6 @@ Vagrant.configure(2) do |config|
     sudo apt-get update
     sudo locale-gen UTF-8
     sudo apt-get install -qy emacs24
+    sudo apt-get install -qy git
   SHELL
 end
