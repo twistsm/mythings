@@ -16,6 +16,7 @@ Vagrant.configure(2) do |config|
     sudo bash -c "curl -L https://github.com/docker/compose/releases/download/1.5.0rc1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"
     sudo chmod +x /usr/local/bin/docker-compose
     sudo apt-get install -qy vim emacs24
+    ln -s /vagrant/ ~/dev
   SHELL
 
   config.vm.define "ci" do |ci|
